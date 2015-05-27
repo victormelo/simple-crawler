@@ -1,0 +1,2 @@
+soupselect==0.0.0
+beautifulsoup4==4.2.1
